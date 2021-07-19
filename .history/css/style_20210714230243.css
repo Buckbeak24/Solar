@@ -1,0 +1,12 @@
+a{
+  
+}
+
+.header{
+  background-image: url(../images/header-bg.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
